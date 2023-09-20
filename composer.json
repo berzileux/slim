@@ -1,5 +1,5 @@
 {
-    "name": "gammadia/slim-2.x",
+    "name": "berzileux/slim",
     "type": "library",
     "description": "Fork of slim/slim with support for modern PHP versions.",
     "replace": {

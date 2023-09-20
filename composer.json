@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Fork of slim/slim with support for modern PHP versions.",
     "replace": {
-        "slim/slim": "^3.0"
+        "slim/slim": "^2.6"
     },
     "keywords": ["microframework","rest","router"],
     "homepage": "http://github.com/codeguy/Slim",

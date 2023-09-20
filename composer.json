@@ -1,9 +1,9 @@
 {
-    "name": "gammadia/slim-2.x",
+    "name": "berzileux/slim",
     "type": "library",
     "description": "Fork of slim/slim with support for modern PHP versions.",
     "replace": {
-        "slim/slim": "^2.6"
+        "slim/slim": "^3.0"
     },
     "keywords": ["microframework","rest","router"],
     "homepage": "http://github.com/codeguy/Slim",

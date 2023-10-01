@@ -1,5 +1,5 @@
 {
-    "name": "berzileux/slim",
+    "name": "bearlab/slim",
     "type": "library",
     "description": "Fork of slim/slim with support for modern PHP versions.",
     "replace": {
